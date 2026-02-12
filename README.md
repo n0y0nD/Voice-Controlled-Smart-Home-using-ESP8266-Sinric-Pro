@@ -80,7 +80,7 @@ Avoid committing secrets to public repositories.
 ---
 
 ## 👨‍💻 Author
-**NAYANYJYOTI DAS**
+**NAYANJYOTI DAS**
 
 ---
 
